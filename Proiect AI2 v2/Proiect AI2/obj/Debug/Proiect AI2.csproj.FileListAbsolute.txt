@@ -1,0 +1,18 @@
+C:\Users\stano\source\repos\Proiect AI2\Proiect AI2\bin\Debug\Proiect AI2.exe.config
+C:\Users\stano\source\repos\Proiect AI2\Proiect AI2\bin\Debug\Proiect AI2.exe
+C:\Users\stano\source\repos\Proiect AI2\Proiect AI2\bin\Debug\Proiect AI2.pdb
+C:\Users\stano\source\repos\Proiect AI2\Proiect AI2\obj\Debug\Proiect AI2.csproj.AssemblyReference.cache
+C:\Users\stano\source\repos\Proiect AI2\Proiect AI2\obj\Debug\Proiect_AI2.Properties.Resources.resources
+C:\Users\stano\source\repos\Proiect AI2\Proiect AI2\obj\Debug\Proiect AI2.csproj.GenerateResource.cache
+C:\Users\stano\source\repos\Proiect AI2\Proiect AI2\obj\Debug\Proiect AI2.csproj.CoreCompileInputs.cache
+C:\Users\stano\source\repos\Proiect AI2\Proiect AI2\obj\Debug\Proiect AI2.exe
+C:\Users\stano\source\repos\Proiect AI2\Proiect AI2\obj\Debug\Proiect AI2.pdb
+D:\Chess\ChessAI\Proiect AI2\Proiect AI2\bin\Debug\Proiect AI2.exe.config
+D:\Chess\ChessAI\Proiect AI2\Proiect AI2\bin\Debug\Proiect AI2.exe
+D:\Chess\ChessAI\Proiect AI2\Proiect AI2\bin\Debug\Proiect AI2.pdb
+D:\Chess\ChessAI\Proiect AI2\Proiect AI2\obj\Debug\Proiect AI2.csproj.AssemblyReference.cache
+D:\Chess\ChessAI\Proiect AI2\Proiect AI2\obj\Debug\Proiect_AI2.Properties.Resources.resources
+D:\Chess\ChessAI\Proiect AI2\Proiect AI2\obj\Debug\Proiect AI2.csproj.GenerateResource.cache
+D:\Chess\ChessAI\Proiect AI2\Proiect AI2\obj\Debug\Proiect AI2.csproj.CoreCompileInputs.cache
+D:\Chess\ChessAI\Proiect AI2\Proiect AI2\obj\Debug\Proiect AI2.exe
+D:\Chess\ChessAI\Proiect AI2\Proiect AI2\obj\Debug\Proiect AI2.pdb
